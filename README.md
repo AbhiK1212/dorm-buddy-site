@@ -1,7 +1,5 @@
 # DormBuddy 🏠  
 
-![Logo](https://www.dormbuddy.tech/dormbuddy.webp)
-
 DormBuddy is an IoT-powered dorm hub built at HackUMass XI. It combines **Arduino hardware**, a **Node/Express backend**, and a **Next.js frontend** to help roommates monitor room conditions and coordinate availability in real time.  
 
 ---
